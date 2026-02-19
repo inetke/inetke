@@ -14,8 +14,8 @@ Hoy utilizo Python y machine learning para transformar datos en predicciones, in
 *I used to optimize hotel revenue.*   
 *Now I optimize models.*   
 
-*With a background in revenue management and hospitality, I learned how pricing, demand, and customer behavior impact real business decisions.*   
-*Today, I use Python and machine learning to turn data into predictions, insights, and practical tools.*   
+*With a background in revenue management and hospitality, I learned how pricing, demand and customer behavior impact real business decisions.*   
+*Today, I use Python and machine learning to turn data into predictions, insights and practical tools.*   
 
 
 <!--
