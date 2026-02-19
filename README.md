@@ -1,9 +1,5 @@
 ## ¡Hola! Soy Ineta Keryte ✨
-### Científica de datos | Revenue Manager
-
-## *Hello! I'm Ineta Keryte* ✨
-### *Data Scientist | Revenue Manager*   
-
+### Científica de datos | Revenue Manager   
 
 Antes optimizaba los ingresos hoteleros.   
 Ahora optimizo modelos.   
@@ -11,6 +7,8 @@ Ahora optimizo modelos.
 Con experiencia en revenue management y hospitality, aprendí cómo los precios, la demanda y el comportamiento del cliente impactan en las decisiones reales de negocio.   
 Hoy utilizo Python y machine learning para transformar datos en predicciones, insights y herramientas prácticas.   
 
+## *Hello! I'm Ineta Keryte* ✨
+### *Data Scientist | Revenue Manager*   
 
 
 *I used to optimize hotel revenue.*   
