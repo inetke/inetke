@@ -1,4 +1,6 @@
-## Hi there 👋
+## ¡Hola! Soy Ineta Keryte ✨
+
+# Hello! I'm Ineta Keryte ✨
 
 <!--
 **inetke/inetke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
