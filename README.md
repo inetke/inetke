@@ -1,8 +1,8 @@
-# ¡Hola! Soy Ineta Keryte ✨
-## Científica de datos | Revenue Manager
+## ¡Hola! Soy Ineta Keryte ✨
+### Científica de datos | Revenue Manager
 
-### Hello! I'm Ineta Keryte ✨
-#### Data Scientist | Revenue Manager
+## Hello! I'm Ineta Keryte ✨
+### Data Scientist | Revenue Manager
 
 ##### Antes optimizaba los ingresos hoteleros.
 ##### Ahora optimizo modelos.
