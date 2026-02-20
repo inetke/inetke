@@ -1,4 +1,4 @@
-## Hello! I'm Ineta Keryte ✨
+## Hi! I'm Ineta Keryte ✨
 ### Data Scientist turning business data into decisions   
 
 I used to optimize hotel revenue.   
