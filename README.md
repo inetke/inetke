@@ -17,18 +17,20 @@ Today, I use Python and machine learning to turn data into predictions, insights
 *Con experiencia en revenue management y hospitality, aprendí cómo los precios, la demanda y el comportamiento del cliente impactan en las decisiones reales de negocio.*   
 *Hoy utilizo Python y machine learning para transformar datos en predicciones, insights y herramientas prácticas.*   
 
-## 🔧 Tech Stack
+---
+
+### 🔧 Tech Stack
 Python · Pandas · NumPy · Scikit-learn · SQL · TensorFlow · EDA   
 Web scraping · Matplotlib · Data Visualization · Streamlit · GitHub   
 
-## 🎯 What I focus on
+### 🎯 What I focus on
 - Predictive modeling
 - Demand forecasting
 - Business-driven data solutions
 - Turning data into actionable insights   
 
-## 📫 Connect with me
-LinkedIn: [(https://www.linkedin.com/in/ineta-keryte/)]
+### 📫 Connect with me
+🔗 [LinkedIn](https://www.linkedin.com/in/ineta-keryte/)
 
 
 <!--
