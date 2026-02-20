@@ -1,8 +1,8 @@
 ## Hi! I'm Ineta Keryte ✨
-### Data Scientist turning business data into decisions
+#### *¡Hola! Soy Ineta Keryte ✨*
 
-## *¡Hola! Soy Ineta Keryte ✨*
-### *Científica de datos transformando datos en decisiones de negocio*    
+### Data Scientist turning business data into decisions
+##### *Científica de datos transformando datos en decisiones de negocio* 
 
 ```python
 class Ineta:
@@ -11,7 +11,6 @@ class Ineta:
     skills = ["Python", "Machine Learning", "SQL", "Data Analysis"]
     focus = ["Forecasting", "Predictive Models", "Business-driven insights"]
 ```
-
 ---
 
 I used to optimize hotel revenue.   
