@@ -23,11 +23,12 @@ Today, I use Python and machine learning to turn data into predictions, insights
 ## 🧠 A little more about me...
 
 ```python
-class Laura:
+class Ineta:
     role = "Data Scientist"
     background = "Revenue Management"
     skills = ["Python", "Machine Learning", "SQL", "Data Analysis"]
-    focus = ["Forecasting", "Predictive Models", "Business-driven insights"]```
+    focus = ["Forecasting", "Predictive Models", "Business-driven insights"]
+
 
 ---
 
