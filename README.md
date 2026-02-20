@@ -19,7 +19,6 @@ Today, I use Python and machine learning to turn data into predictions, insights
 
 ---
 
-```md
 ## 🧠 A little more about me...
 
 ```python
