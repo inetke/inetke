@@ -27,7 +27,7 @@ class Ineta:
     background = "Revenue Management"
     skills = ["Python", "Machine Learning", "SQL", "Data Analysis"]
     focus = ["Forecasting", "Predictive Models", "Business-driven insights"]
-
+```
 
 ---
 
