@@ -19,6 +19,18 @@ Today, I use Python and machine learning to turn data into predictions, insights
 
 ---
 
+```md
+## 🧠 A little more about me...
+
+```python
+class Laura:
+    role = "Data Scientist"
+    background = "Revenue Management"
+    skills = ["Python", "Machine Learning", "SQL", "Data Analysis"]
+    focus = ["Forecasting", "Predictive Models", "Business-driven insights"]
+
+---
+
 ### 🔧 Tech Stack
 Python · Pandas · NumPy · Scikit-learn · SQL · TensorFlow · EDA   
 Web scraping · Matplotlib · Data Visualization · Streamlit · GitHub   
