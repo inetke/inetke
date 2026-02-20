@@ -8,8 +8,11 @@
 class Ineta:
     role = "Data Scientist"
     background = "Revenue Management"
-    skills = ["Python", "Machine Learning", "SQL", "Data Analysis"]
-    focus = ["Forecasting", "Predictive Models", "Business-driven insights"]
+    focus = ["Machine Learning", "Predictive Modeling", "Data-driven solutions"]
+    languages = ["Python", "SQL"]
+    tools = ["Pandas", "Scikit-learn", "Streamlit", "Git"]
+    location = "Spain"
+    status = "Open to Data Scientist opportunities"
 ```
 ---
 
