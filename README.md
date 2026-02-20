@@ -1,7 +1,7 @@
-## Hi! I'm Ineta Keryte ✨<br>
-#### *¡Hola! Soy Ineta Keryte ✨*
+## Hi! I'm Ineta Keryte ✨
+### Data Scientist turning business data into decisions
 
-### Data Scientist turning business data into decisions<br>
+#### *¡Hola! Soy Ineta Keryte ✨*
 ##### *Científica de datos transformando datos en decisiones de negocio* 
 
 ```python
